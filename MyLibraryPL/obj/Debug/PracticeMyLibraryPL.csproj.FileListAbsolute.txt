@@ -1,0 +1,14 @@
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMyLibraryPL.exe.config
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMyLibraryPL.exe
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMyLibraryPL.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\obj\Debug\PracticeMyLibraryPL.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\obj\Debug\PracticeMyLibraryPL.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\obj\Debug\PracticeMyLibraryPL.exe
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\obj\Debug\PracticeMyLibraryPL.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\Entities.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMylibraryBLL.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMyLibraryDAT.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\Entities.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMylibraryBLL.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\bin\Debug\PracticeMyLibraryDAT.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryPL\obj\Debug\PracticeMyLibraryPL.csproj.CopyComplete

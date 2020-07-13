@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3dAXZyREs28jSGiihPhtHh5yApWEKWLctbYfATbdPjNgka8triOg7PxUERZc8sGYIXC9749JB2hnpe0rM9MKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vasil\\source\\repos\\PracticeMylibraryBLL\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

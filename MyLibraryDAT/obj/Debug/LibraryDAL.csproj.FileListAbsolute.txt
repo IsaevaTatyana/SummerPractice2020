@@ -1,0 +1,9 @@
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\bin\Debug\PracticeMyLibraryDAT.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\bin\Debug\PracticeMyLibraryDAT.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\bin\Debug\Entities.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\bin\Debug\Entities.pdb
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\obj\Debug\LibraryDAL.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\obj\Debug\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\obj\Debug\LibraryDAL.csproj.CopyComplete
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\obj\Debug\PracticeMyLibraryDAT.dll
+C:\Users\vasil\source\repos\PracticeMylibraryBLL\PracticeMyLibraryDAT\obj\Debug\PracticeMyLibraryDAT.pdb
